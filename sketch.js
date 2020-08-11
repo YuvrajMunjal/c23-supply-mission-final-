@@ -43,7 +43,7 @@ function setup() {
 
 	Engine.run(engine);
 	
-  box = new Box(450,650,200,20)
+  box = new Box(460,663,180,13)
   box2 = new Box(560,610,20,100)
   box3 = new Box(360,610,20,100)
 }
